@@ -8,12 +8,12 @@ Este proyecto implementa una red de área amplia (WAN) para conectar diversas in
 - **Tecnologías:** DHCP Server local, Red Móvil 4G Rural, Servidores DNS y Web.
 
 ## 🛠️ Herramientas utilizadas
-- **Cisco Packet Tracer 8.x**
+- **Cisco Packet Tracer 9.0**
 - **LaTeX** (Para la documentación técnica)
 
 ## 📁 Estructura del Proyecto
 - `/topologia`: Contiene el archivo .pkt listo para simulación.
-- `/documentacion`: Reporte técnico detallado en PDF y código fuente LaTeX.
+- `/documentacion`: Reporte técnico detallado en PDF.
 
 ## 📸 Vista Previa
 ![Topologia General](HD.png)
