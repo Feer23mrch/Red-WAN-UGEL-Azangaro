@@ -16,4 +16,4 @@ Este proyecto implementa una red de área amplia (WAN) para conectar diversas in
 - `/documentacion`: Reporte técnico detallado en PDF y código fuente LaTeX.
 
 ## 📸 Vista Previa
-![Topologia General](img/ejmpl_cluster.png)
+![Topologia General](ejmpl_cluster.png)
