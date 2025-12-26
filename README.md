@@ -17,4 +17,4 @@ Este proyecto implementa una red de área amplia (WAN) para conectar diversas in
 
 ## 📸 Vista Previa
 ![Topologia General](HD.png)
-![Topologia General](CiscoPic.png)
+![Topologia General](ciscoPic.PNG)
