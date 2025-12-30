@@ -18,3 +18,4 @@ Este proyecto implementa una red de área amplia (WAN) para conectar diversas in
 ## 📸 Vista Previa
 ![Topologia General](HD.png)
 ![Topologia General](ciscoPic.PNG)
+![Topologia General](ejmpl_cluster.png)
